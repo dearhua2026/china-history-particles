@@ -1,0 +1,6 @@
+- [ ] 使用 winget 安装 GitHub CLI (`gh`)
+- [ ] 使用 winget 安装 Node.js (LTS 版本)
+- [ ] 验证环境安装并刷新路径信息
+- [ ] 指导用户进行第一次授权登录 (`gh auth login` & `npx wrangler login`)
+- [ ] 完成项目目录重塑 (`public/` & `docs/`)
+- [ ] 更新 Cloudflare Pages 构建配置并全量同步
